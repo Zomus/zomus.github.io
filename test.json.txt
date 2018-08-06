@@ -1,0 +1,4 @@
+{
+	name:"duncan",
+	hello: 0
+}
